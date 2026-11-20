@@ -1,0 +1,4 @@
+{
+  "server": "https://stormcoach.athost.it",
+  "nota": "Indirizzo del server usato dalle app StormCoach installate. Se il server cambia, cambia solo questa riga."
+}
